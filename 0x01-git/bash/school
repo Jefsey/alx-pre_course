@@ -1,2 +1,2 @@
 #!/bib/bash
-"The School is open!"
+echo "The School is open!"
